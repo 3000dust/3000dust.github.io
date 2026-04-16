@@ -9,8 +9,12 @@
 
 # main links
 main:
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=1hwVpB4AAAAJ&hl=en
 
   - title: "Talks" # Changed from Talks
     url: /talks/    
@@ -19,7 +23,7 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/CV.pdf
     
   - title: "Beyond Research" # Change this to whichever you prefer!
     url: /portfolio/
