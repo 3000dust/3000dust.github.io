@@ -19,6 +19,6 @@ author_profile: true
 
 ## Teaching Assistantship
 
-* **Energy Systems** (Prof. Yury Dvorkin, JHU | Aug 2024 – Dec 2024 & Aug 2025 – Dec 2025)
+* **Energy Systems** ([EN.560.449](https://courses.jhu.edu/?query=560.449), [EN.560.649](https://courses.jhu.edu/?query=560.649)) (Prof. Yury Dvorkin, JHU, Aug 2024 – Dec 2024 & Aug 2025 – Dec 2025)
 
-* **Energy Policy and Planning Models** (Prof. Ben Hobbs, JHU | Jan 2022 – May 2022)
+* **Energy Policy and Planning Models** ([EN.570.607](https://courses.jhu.edu/?query=570.607)) (Prof. Ben Hobbs, JHU, Jan 2022 – May 2022)

@@ -4,7 +4,7 @@ title: "Beyond Research"
 author_profile: true
 ---
 
-While my research life is driven by systems engineering and grid optimization, my time outside the lab is fueled by movement, music, and an alarming amount of unpaid mechanic work. I am a huge advocate for stepping away from the keyboard to enjoy the physical world (or at least, to go yell at a football match).
+While my research life is driven by systems engineering and grid optimization, my time outside the lab is fueled by movement, music, and an alarming amount of unpaid mechanic work. I am a huge advocate for stepping away from the keyboard to enjoy the physical world (or at least, to go yell at a soccer match).
 
 ---
 
