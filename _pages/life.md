@@ -35,6 +35,21 @@ San Diego → California Coast → Yosemite → Nevada → Utah → Rocky Mounta
   </iframe>
 </div>
 
+#### Acadia National Park · Fall 2024
+
+Baltimore → Boston Area → Maine Coast → Bar Harbor → Acadia National Park → Bass Harbor → Baltimore
+
+<div style="max-width: 1000px; margin: 20px auto 35px auto;">
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m124!1m12!1m3!1d3598830.202663034!2d-75.03930879568439!3d42.04718990470265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m109!3e0!4m5!1s0x89c804df8502f88d%3A0x303d58494fa04c66!2sJohns%20Hopkins%20University%2C%20Baltimore%2C%20MD%2021218!3m2!1d39.329901299999996!2d-76.6205177!4m5!1s0x89e3a80cf932f4e5%3A0x38388e903f1088f3!2sLa%20Quinta%20Inn%20%26%20Suites%20by%20Wyndham%20Boston-Andover%2C%20131%20River%20Rd%2C%20Andover%2C%20MA%2001810!3m2!1d42.6908798!2d-71.20890039999999!4m5!1s0x89e2bed0eebcb6a7%3A0xb7186b97c293c228!2sMaine%20State%20Visitor%20Information%20Center%20-%20Kittery%2C%20I-95%20and%2C%20US-1%2C%20Kittery%2C%20ME%2003904!3m2!1d43.12843!2d-70.716833!4m5!1s0x4caeecafb5c1302f%3A0x869cfb251f03bfab!2sTrenton%20Bridge%20Lobster%20Pound%2C%201237%20Bar%20Harbor%20Rd%2C%20Trenton%2C%20ME%2004605!3m2!1d44.4323748!2d-68.36878519999999!4m5!1s0x4caeeb16c942fa75%3A0x5217ff9dff102445!2sHadley&#39;s%20Point%20Campground%2C%2033%20Hadley%20Point%20Rd%2C%20Bar%20Harbor%2C%20ME%2004609!3m2!1d44.4379591!2d-68.31418479999999!4m5!1s0x4caeb94012029f19%3A0x412d5867d3464995!2sSand%20Beach%2C%20Bar%20Harbor%2C%20ME%2004609!3m2!1d44.3292049!2d-68.181973!4m5!1s0x4caec0768025f749%3A0x514c2cf9aa3a1824!2sGallagher&#39;s%20Travels%20Motel%20%26%20Cabins%20Bar%20Harbor%2C%20122%20ME-3%2C%20Bar%20Harbor%2C%20ME%2004609!3m2!1d44.4226508!2d-68.2508483!4m5!1s0x4caebbeb5bffc3f9%3A0xccea5ae5be1a0dc3!2sLittle%20Hunters%20Beach%2C%20Mt%20Desert%2C%20ME%2004660!3m2!1d44.298315599999995!2d-68.2118074!4m5!1s0x4caebe8468de0ed3%3A0x73ccd81dbda083e8!2sJordan%20Pond%2C%20Mt%20Desert%2C%20ME!3m2!1d44.334127699999996!2d-68.2571493!4m5!1s0x4caebef0bebb39f3%3A0x3931abe8271cbebc!2sJordan%20Pond%20House%20Restaurant%2C%202928%20Park%20Loop%20Rd%2C%20Seal%20Harbor%2C%20ME%2004675!3m2!1d44.3205459!2d-68.25361269999999!4m5!1s0x4caeb938328beb95%3A0x5250264a31cbe578!2sBeehive%20Trl%2C%20Bar%20Harbor%2C%20ME%2004609!3m2!1d44.333974999999995!2d-68.1904057!4m5!1s0x4caeea93ac3f4df1%3A0x4efd676367e6d7e6!2sMainely%20Meat%20BBQ%20on%20Dreamwood%20Hill%2C%20369%20ME-3%2C%20Bar%20Harbor%2C%20ME%2004609!3m2!1d44.4310093!2d-68.26727269999999!4m5!1s0x4caef1c325d50ea5%3A0xd328381badcbe8c!2s245%20High%20St%2C%20Ellsworth%2C%20ME%2004605!3m2!1d44.531922099999996!2d-68.4079326!4m5!1s0x4caea2e63592e97f%3A0xe48de4bc28419dc2!2sBass%20Harbor%20Cottages%2C%2095%20Harbor%20Dr%2C%20Bass%20Harbor%2C%20ME%2004653!3m2!1d44.2451503!2d-68.345531!4m5!1s0x4caea3a60308a041%3A0xa8a753976855fb68!2sBass%20Harbor%20Head%20Light%20Station%2C%20116%20Lighthouse%20Rd%2C%20Bass%20Harbor%2C%20ME%2004653!3m2!1d44.2219908!2d-68.33726229999999!4m5!1s0x4cae97a048849b31%3A0x6bc7708886a47493!2sSeal%20Cove%20Auto%20Museum%2C%201414%20Tremont%20Rd%2C%20Seal%20Cove%2C%20ME%2004674!3m2!1d44.3053532!2d-68.4045448!4m5!1s0x4cb279007cbe4a43%3A0x293d07a966b660a9!2sMarket%20Basket%2C%20169%20Topsham%20Fair%20Mall%20Rd%2C%20Topsham%2C%20ME%2004086!3m2!1d43.9304449!2d-69.9822975!4m5!1s0x89c804df8502f88d%3A0x303d58494fa04c66!2sJohns%20Hopkins%20University%2C%20Baltimore%2C%20MD%2021218!3m2!1d39.329901299999996!2d-76.6205177!5e1!3m2!1sen!2sus!4v1776441150472!5m2!1sen!2sus"
+    style="width:100%; aspect-ratio:16/9; border:0; border-radius:4px; display:block;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
+
+
 
 #### Alaska · Winter 2024
 
@@ -49,6 +64,7 @@ Anchorage → Talkeetna → Denali → Fairbanks → Arctic Circle → Castner G
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </div>
+
 
 #### Florida · Winter 2025
 
