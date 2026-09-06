@@ -19,6 +19,8 @@ Before beginning my Ph.D., I was a Research Associate (2022–2023) at the [21st
 
 Recent News
 ======
+* 🚗 **08/22/2026:** Wrapped up the summer with a road trip through Maine and the North Woods, highlighted by whitewater rafting on the Penobscot River, with Jiu Jiu.
+* 📄 **08/20/2026:** Our paper, ["Shift or curtail? How much data-center flexibility is worth depends on the host power grid"](https://arxiv.org/abs/2608.19622), was preprinted on *arXiv*.
 * 🔬 **07/23/2026:** Excited to be selected as a Research Scholar for the 2026–2027 class of the [Critical Minerals Research Lab](https://www.rff.org/news/press-releases/introducing-the-20262027-class-of-critical-minerals-research-scholars/).
 * 📄 **06/16/2026:** Our policy brief, ["The Next Data Center Bottleneck Is Grid-Supporting Equipment"](https://energyinstitute.jhu.edu/wp-content/uploads/2026/06/GSE_Supply_Chain_Analysis_May_2026-1.pdf), was released by the Ralph O'Connor Sustainable Energy Institute.
 * 💼 **06/15/2026:** Thrilled to announce that I am starting a summer research internship at Resources for the Future (RFF)!
