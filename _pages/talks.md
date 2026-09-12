@@ -4,6 +4,8 @@ title: "Talks"
 author_profile: true
 ---
 
+* [**(Poster)**](/files/talks/2026_PowerUP.pdf) *Grid-Supporting Equipment Supply Chains as a Constraint on Power System Expansion.* 2026 PowerUp Conference.
+
 * [**(Invited)**](/files/talks/2026_Market.pdf) *Beyond Market Signals: Supply-Chain Constraints in Grid Expansion.* 2026 Power Markets Journal Club.
 
 * [**(Poster)**](/files/talks/2026_ROSEI_ICARUS.pdf) *The ICARUS Dataset: An Infrastructure-Centric, Open Dataset for Capacity Expansion, Resource Adequacy, and Data Center Integration.* 2026 Ralph O’Connor Sustainable Energy Institute (ROSEI) Summit.
