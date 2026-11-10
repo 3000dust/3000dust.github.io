@@ -19,6 +19,8 @@ Before beginning my Ph.D., I was a Research Associate (2022–2023) at the [21st
 
 News from the Past Year
 ======
+* 🎤 **11/03/2025:** Presented our work, "Massachusetts' 2026 Clean Peak Standard Recalibration: Adaptation and Storage Tradeoffs", at the 17th IEEE International Conference on Green Energy & Smart Systems.
+* 🎤 **11/01/2026:** Presented our work, "AI Data Centers Need More Than Power: Transformers and Power Electronics Are Hidden Supply Chain Externalities", at the 2026 INFORMS Annual Meeting.
 * 📄 **09/29/2026:** Our paper, ["Massachusetts' 2026 Clean Peak Standard Recalibration: Adaptation and Storage Tradeoffs"](https://arxiv.org/abs/2609.36468), was accepted for the 17th IEEE International Conference on Green Energy & Smart Systems (IEEE GESS 2026).
 * 📄 **09/22/2026:** Our policy brief, ["Valuing Data Center Load Shifting and Curtailment in PJM"](https://energyinstitute.jhu.edu/wp-content/uploads/2026/09/Valuing_Data_Center_Load_Shifting_and_Curtailment_in_PJM.pdf), was released by the Ralph O'Connor Sustainable Energy Institute.
 * 🚗 **08/22/2026:** Wrapped up the summer with a road trip through Maine and the North Woods, highlighted by whitewater rafting on the Penobscot River, with Jiu Jiu.
@@ -34,8 +36,8 @@ News from the Past Year
 * 📄 **03/05/2026:** Our paper, ["Resource adequacy under institutional constraints and the low-carbon energy transition in China"](https://www.sciencedirect.com/science/article/pii/S030142152600042X), was published in *Energy Policy*.
 * 📄 **01/26/2026:** Our paper, ["Generation Expansion Planning With Upstream Supply Chain Constraints on Materials, Manufacturing, and Deployment"](https://ieeexplore.ieee.org/abstract/document/11363418), was published in *IEEE Transactions on Energy Markets, Policy, and Regulation*.
 * 🚗 **12/15/2025:** Wrapped up the year with a holiday road trip down to Key West, Florida with my family and Jiu Jiu.
-* 🎤 **10/27/2025:** Presented our work, "Market Signals and Incentives Aren’t Sufficient: The Case for Supply-Chain Modeling for Grid Expansion", at the 2025 INFORMS Annual Meeting.
-* 🚗 **10/25/2025:** Wrapped up the summer with a joyful road trip to Atlanta, Georgia, also for the INFORMS Annual Meeting, with Jiu Jiu.
+<!-- * 🎤 **10/27/2025:** Presented our work, "Market Signals and Incentives Aren’t Sufficient: The Case for Supply-Chain Modeling for Grid Expansion", at the 2025 INFORMS Annual Meeting.
+* 🚗 **10/25/2025:** Wrapped up the summer with a joyful road trip to Atlanta, Georgia, also for the INFORMS Annual Meeting, with Jiu Jiu. -->
 <!-- * 📄 **09/30/2025:** Our paper, ["Understanding supply chain constraints for the US clean energy transition"](https://www.nature.com/articles/s44406-025-00009-1), was published in *npj Clean Energy*. -->
 <!-- * 🎤 **07/27/2025:** Presented our work, ["A Decision Framework for Clean Energy Supply Chain Optimization"](https://ieeexplore.ieee.org/abstract/document/11225354), at the 2025 IEEE PES General Meeting. -->
 <!-- * 🚗 **05/25/2025:** Wrapped up the spring with a joyful road trip to New River Gorge National Park, West Virginia, with Jiu Jiu and Tu Tu. -->

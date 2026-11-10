@@ -4,6 +4,10 @@ title: "Talks"
 author_profile: true
 ---
 
+* [**(Oral)**](/files/talks/2026_GESS.pdf) *Massachusetts' 2026 Clean Peak Standard Recalibration: Adaptation and Storage Tradeoffs.* 17th IEEE International Conference on Green Energy & Smart Systems (IEEE GESS 2026).
+
+* [**(Invited)**](/files/talks/2026_INFORMS_Supply_Chain.pdf) *AI Data Centers Need More Than Power: Transformers and Power Electronics Are Hidden Supply Chain Externalities.* 2026 INFORMS Annual Meeting.
+
 * [**(Poster)**](/files/talks/2026_PowerUP.pdf) *Grid-Supporting Equipment Supply Chains as a Constraint on Power System Expansion.* 2026 PowerUp Conference.
 
 * [**(Invited)**](/files/talks/2026_Market.pdf) *Beyond Market Signals: Supply-Chain Constraints in Grid Expansion.* 2026 Power Markets Journal Club.
