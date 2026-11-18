@@ -1,0 +1,29 @@
+<!-- Standalone Jekyll include: no inline map scripts or iframe. -->
+<link rel="stylesheet" href="{{ '/assets/css/flight-map.css' | relative_url }}?v=4">
+<div id="flight-history-app" data-flights-url="{{ '/assets/data/flights.csv' | relative_url }}">
+<div class="widget" id="widget">
+  <div class="toolbar">
+    <label for="year">Year <select id="year" aria-label="Select a flight year" disabled><option value="all">All years</option></select></label>
+  </div>
+  <div id="viewport" class="viewport" aria-label="Map showing flight routes and airports">
+    <canvas id="fallback" aria-hidden="true"></canvas>
+    <div id="tiles" aria-hidden="true"></div>
+    <svg id="routes" aria-label="Flight routes over a geographic basemap"></svg>
+    <div class="zoom" aria-label="Map view controls">
+      <button type="button" id="plus" title="Zoom in" aria-label="Zoom in">+</button>
+      <button type="button" id="minus" title="Zoom out" aria-label="Zoom out">−</button>
+      <button type="button" id="to-us" title="Show United States" aria-label="Show United States">US</button>
+      <button type="button" id="to-world" title="Show entire world" aria-label="Show entire world">🌐</button>
+    </div>
+    <div id="tip" class="tip" hidden></div>
+    <div id="card" class="card" aria-live="polite" hidden>
+      <button type="button" id="close" class="close" title="Close flight details" aria-label="Close flight details">×</button>
+      <strong id="card-title"></strong><div id="card-body"></div>
+    </div>
+    <div id="notice" class="notice" role="alert" hidden></div>
+    <div id="flight-map-loading" class="flight-map-loading" role="status">Loading flight records…</div>
+    <div class="attribution">© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a></div>
+  </div>
+</div>
+</div>
+<script defer src="{{ '/assets/js/flight-map.js' | relative_url }}?v=4"></script>

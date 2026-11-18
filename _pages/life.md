@@ -12,7 +12,7 @@ I am a strong believer that sometimes the best way to solve a problem is to clos
 
 A map of my flights over the years. Select a year to explore the routes.
 
-{% include flight-history.md %}
+{% include flight-history.html %}
 
 ---
 
