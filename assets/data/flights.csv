@@ -1,0 +1,70 @@
+date,from,to,note
+7/8/2012,TSN,TPE,Approximate date; July 2012 two-week trip; Taipei airport assumed TPE
+7/22/2012,TPE,TSN,Approximate date; July 2012 two-week trip; Taipei airport assumed TPE
+7/31/2016,DOH,EDI,Edinburgh trip (flight number unknown)
+7/31/2016,PEK,DOH,Qatar Airways QR895
+8/14/2016,DOH,PEK,Qatar Airways QR896
+8/13/2016,MAD,DOH,Madrid return
+6/30/2017,PEK,LAX,Air China CA987
+7/15/2017,IAD,PEK,Air China CA818
+10/2/2017,PEK,CNX,Air China CA823
+10/8/2017,CNX,WUH,Air China CA708
+10/8/2017,WUH,PEK,Air China CA8209
+6/29/2019,TSN,XIY,Fuzhou Airlines FU6588
+7/14/2019,XIY,TSN,Fuzhou Airlines FU6587
+8/14/2019,TSN,CTU,Okay Airways BK2851
+8/28/2019,PEK,LAX,Air China CA887
+12/14/2019,LAX,PEK,Air China CA984
+1/2/2020,PEK,LAX,Air China CA987
+7/26/2020,LAX,PEK,Air China CA988
+11/16/2020,TSN,SZX,XiamenAir MF8365
+11/21/2020,SZX,TSN,Air China CA1372
+5/17/2021,TSN,CAN,China Southern CZ5336
+8/22/2021,LAX,BWI,United Airlines UA1701
+8/22/2021,PEK,LAX,Air China CA987
+12/19/2021,BWI,ORD,United Airlines UA1857
+12/19/2021,ORD,SEA,Alaska Airlines AS27
+12/19/2021,SEA,FAI,Alaska Airlines AS145
+12/24/2021,FAI,SEA,Alaska Airlines AS234
+12/24/2021,SEA,BWI,Alaska Airlines AS922
+8/11/2022,BWI,DTW,Delta Air Lines DL2784
+8/11/2022,DTW,SAN,Delta Air Lines DL934
+8/12/2022,LAS,BWI,Spirit Airlines NK696
+8/12/2022,SAN,IAD,United Airlines UA2129
+8/12/2022,SAN,LAS,Spirit Airlines NK1841
+9/3/2022,BWI,ATL,Delta Air Lines DL2445
+9/5/2022,ATL,BWI,Delta Air Lines DL2889
+9/13/2022,BWI,ORD,United Airlines UA1857
+9/13/2022,ORD,SAN,United Airlines UA1709
+10/20/2022,SAN,IAD,United Airlines UA2129
+10/23/2022,IAD,SAN,United Airlines UA2303
+12/17/2022,SAN,ORD,United Airlines UA2478
+12/18/2022,ORD,DCA,United Airlines UA1504
+1/2/2023,BWI,DEN,United Airlines UA548
+1/2/2023,DEN,SAN,United Airlines UA347
+2/12/2023,ATL,BWI,Delta Air Lines DL2294
+2/12/2023,SAN,ATL,Delta Air Lines DL894
+2/19/2023,BWI,MSP,Delta Air Lines DL2872
+2/19/2023,MSP,SAN,Delta Air Lines DL1120
+3/29/2023,SAN,BWI,Southwest Airlines WN2035
+4/15/2023,BWI,SAN,Southwest Airlines WN2909
+12/19/2023,IAD,AUH,Etihad Airways EY130
+12/20/2023,AUH,PEK,Etihad Airways EY888
+1/2/2024,PEK,ICN,Korean Air KE854
+1/3/2024,ICN,IAD,Korean Air KE93
+12/17/2024,BWI,ORD,United Airlines UA455
+12/17/2024,DEN,ANC,United Airlines UA280
+12/17/2024,ORD,DEN,United Airlines UA2311
+12/25/2024,ANC,ORD,United Airlines UA2271
+12/26/2024,ORD,BWI,United Airlines UA2302
+7/27/2025,BWI,AUS,Southwest Airlines WN799
+7/31/2025,AUS,BWI,Southwest Airlines WN504
+8/31/2026,BOS,BWI,Southwest Airlines WN280
+9/8/2026,BWI,DEN,Southwest Airlines WN937
+9/11/2026,DEN,BWI,Southwest Airlines WN4269
+9/23/2026,BWI,MHT,Southwest Airlines WN3244
+9/29/2026,MHT,BWI,Southwest Airlines WN2852
+10/31/2026,BWI,SFO,Southwest Airlines
+11/4/2026,OAK,LGB,Southwest Airlines
+11/8/2026,LAX,BWI,Southwest Airlines
+11/20/2026,BWI,BOS,Southwest Airlines

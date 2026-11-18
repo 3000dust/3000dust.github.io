@@ -33,7 +33,7 @@ Building on material-focused supply chain analysis, my research examines how ups
 My research studies how grid-supporting equipment (GSE), including transformers, converters, inverters, PCS, and UPS systems, can become a binding constraint on power system expansion. By linking equipment deployment, replacement dynamics, material requirements, and upstream supply chains, I evaluate how industrial bottlenecks shape the feasible pace of electrification and grid growth.
 
 * **Key Focus:** Modeling GSE availability and critical material constraints in power system planning.
-* **Selected Publication:** *Grid-Supporting Equipment Supply Chains Constrain the Feasible Pace of Power System Expansion* (under review)
+* **Selected Publication:** [Grid-Supporting Equipment Supply Chains Constrain the Feasible Pace of Power System Expansion] (https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(26)00292-2) (*Cell Reports Sustainability*, 2026)
 
 ## 4. Regional Energy Policy and Resilience
 

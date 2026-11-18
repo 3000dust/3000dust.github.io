@@ -19,6 +19,7 @@ Before beginning my Ph.D., I was a Research Associate (2022–2023) at the [21st
 
 News from the Past Year
 ======
+* 📄 **11/17/2026:** Our paper, ["Grid-Supporting Equipment Supply Chains Constrain the Feasible Pace of Power System Expansion"](https://www.cell.com/cell-reports-sustainability/fulltext/S2949-7906(26)00292-2), was published in *Cell Reports Sustainability*.
 * 🎤 **11/03/2025:** Presented our work, "Massachusetts' 2026 Clean Peak Standard Recalibration: Adaptation and Storage Tradeoffs", at the 17th IEEE International Conference on Green Energy & Smart Systems.
 * 🎤 **11/01/2026:** Presented our work, "AI Data Centers Need More Than Power: Transformers and Power Electronics Are Hidden Supply Chain Externalities", at the 2026 INFORMS Annual Meeting.
 * 📄 **09/29/2026:** Our paper, ["Massachusetts' 2026 Clean Peak Standard Recalibration: Adaptation and Storage Tradeoffs"](https://arxiv.org/abs/2609.36468), was accepted for the 17th IEEE International Conference on Green Energy & Smart Systems (IEEE GESS 2026).
