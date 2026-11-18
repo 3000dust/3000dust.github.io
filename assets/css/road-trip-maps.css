@@ -1,0 +1,26 @@
+/* Compact geographic previews matching the flight map's OpenStreetMap palette. */
+.road-trip-widget{max-width:1000px;margin:18px auto 34px;border:1px solid #d5e2ea;border-radius:10px;overflow:hidden;background:#fff;color:#315161;font:14px/1.4 system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+.road-trip-widget,.road-trip-widget *{box-sizing:border-box}
+.road-trip-widget__map{height:338px;background:#deedf3;position:relative;overflow:hidden;isolation:isolate;cursor:grab;touch-action:pan-y}
+.road-trip-widget__map.is-dragging{cursor:grabbing;touch-action:none}
+.road-trip-widget__geography,.road-trip-widget__tiles,.road-trip-widget__routes{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.road-trip-widget__geography{z-index:1}.road-trip-widget__tiles{z-index:2;overflow:hidden}.road-trip-widget__routes{z-index:3;overflow:visible}
+.road-trip-widget__tiles img{position:absolute;display:block;max-width:none;border:0;pointer-events:none;user-select:none;filter:saturate(.8) brightness(1.01)}
+.road-trip-widget__line{fill:none;stroke:#1682a3;stroke-width:2.7;stroke-linejoin:round;stroke-linecap:round;stroke-dasharray:7 4;stroke-opacity:.92;vector-effect:non-scaling-stroke}
+.road-trip-widget__stop{pointer-events:auto;cursor:pointer;outline:none}
+.road-trip-widget__stop-dot{stroke:#fff;stroke-width:1.4;fill:#1781a2;vector-effect:non-scaling-stroke}
+.road-trip-widget__stop:hover .road-trip-widget__stop-dot,.road-trip-widget__stop:focus-visible .road-trip-widget__stop-dot{fill:#dc7c32;stroke:#fff;stroke-width:2.3}
+.road-trip-widget__stop text{font:700 10px/1 system-ui,-apple-system,sans-serif;fill:#fff;pointer-events:none}
+.road-trip-widget__controls{position:absolute;z-index:6;right:12px;top:11px;display:flex;flex-direction:column;gap:4px}
+.road-trip-widget__controls button{width:33px;height:32px;border:1px solid #c6d7e0;border-radius:5px;padding:0;background:rgba(255,255,255,.96);color:#33596b;font:600 19px/1 Arial,sans-serif;cursor:pointer;box-shadow:0 1px 2px #1a384a1a}
+.road-trip-widget__controls button:hover{background:#eaf6fb}.road-trip-widget__controls button:focus-visible{outline:2px solid #208db4;outline-offset:2px}
+.road-trip-widget__popup{position:absolute;z-index:7;max-width:min(310px,75%);padding:8px 10px;border-radius:6px;background:rgba(255,255,255,.97);border:1px solid #b9d4df;color:#284d61;box-shadow:0 2px 8px #1f425b33;font-size:12px;pointer-events:none}
+.road-trip-widget__attribution{position:absolute;z-index:5;bottom:3px;right:5px;background:#ffffffe8;padding:1px 5px;color:#546c78;border-radius:3px;font:10px/1.5 Arial,sans-serif}
+.road-trip-widget__attribution a{color:inherit;text-decoration:none}
+.road-trip-widget__explain{font:12px/1.4 system-ui,-apple-system,sans-serif;margin:0!important;padding:9px 13px;border-top:1px solid #e4ecee;color:#6c818c}
+.road-trip-widget__original{border-top:1px solid #e6edef;padding:0 13px;font-size:12px}
+.road-trip-widget__original summary{padding:10px 0;cursor:pointer;color:#286c88;font-weight:600;list-style-position:inside}
+.road-trip-widget__original[open]{padding-bottom:12px}
+.road-trip-widget__original iframe{display:block;aspect-ratio:16/9;width:100%;border:0;border-radius:5px;min-height:260px;margin:8px auto}
+.road-trip-widget [hidden]{display:none!important}
+@media(max-width:600px){.road-trip-widget__map{height:280px}.road-trip-widget__controls{right:8px;top:8px}.road-trip-widget__controls button{width:31px;height:31px}.road-trip-widget__explain{font-size:11px;padding:8px 10px}}
