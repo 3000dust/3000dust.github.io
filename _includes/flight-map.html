@@ -1,0 +1,34 @@
+<link rel="stylesheet" href="{{ '/assets/css/flight-map.css' | relative_url }}">
+
+<div class="flight-map" id="flight-map" data-airports-url="{{ '/assets/data/flight-airports.json' | relative_url }}">
+  <div class="flight-map__toolbar">
+    <label class="flight-map__year" for="flight-map-year">
+      <span>Year</span>
+      <select id="flight-map-year" aria-label="Filter flights by year" disabled>
+        <option value="all">All years</option>
+      </select>
+    </label>
+    <div class="flight-map__stats" aria-live="polite">
+      <span><strong id="flight-map-count">0</strong> flights</span>
+      <span><strong id="flight-map-airports">0</strong> airports</span>
+      <span title="Approximate great-circle distance, not actual flown distance"><strong id="flight-map-distance">0</strong> km</span>
+    </div>
+  </div>
+  <div class="flight-map__canvas" id="flight-map-canvas">
+    <svg id="flight-map-svg" role="img" aria-label="Interactive world map of flight routes"></svg>
+    <div class="flight-map__zoom" aria-label="Map zoom controls">
+      <button type="button" data-flight-zoom="in" aria-label="Zoom in" title="Zoom in">+</button>
+      <button type="button" data-flight-zoom="out" aria-label="Zoom out" title="Zoom out">−</button>
+      <button type="button" data-flight-zoom="reset" aria-label="Show entire world" title="Show entire world">⌂</button>
+    </div>
+  </div>
+  <div id="flight-map-details" class="flight-map__details" aria-live="polite">
+    Select a route on the map to see individual flights.
+  </div>
+  <p id="flight-map-status" class="flight-map__status" role="status">Loading map…</p>
+</div>
+
+<script type="application/json" id="flight-map-data">{{ site.data.flights | jsonify }}</script>
+<script defer src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script defer src="{{ '/assets/js/flight-map.js' | relative_url }}"></script>

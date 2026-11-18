@@ -8,6 +8,13 @@ I am a strong believer that sometimes the best way to solve a problem is to clos
 
 ---
 
+### ✈️ Flight History
+
+A map of my flights over the years. Select a year to explore individual routes.
+
+{% include flight-map.html %}
+
+---
 
 ### 🚗 Road Trips
 

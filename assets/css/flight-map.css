@@ -1,0 +1,155 @@
+/* Only affects the flight-map widget on Beyond Research. */
+.flight-map {
+  margin: 1.1rem 0 2rem;
+  overflow: hidden;
+  border: 1px solid #dce5eb;
+  border-radius: 10px;
+  background: #fff;
+  font-size: .89em;
+}
+.flight-map__toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .85rem;
+  flex-wrap: wrap;
+  padding: .8rem 1rem;
+  border-bottom: 1px solid #e8eef2;
+}
+.flight-map__year {
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  margin: 0;
+  white-space: nowrap;
+  font-weight: 600;
+}
+.flight-map__year select {
+  width: auto;
+  min-width: 110px;
+  margin: 0;
+  padding: .35rem 1.8rem .35rem .65rem;
+  color: #2d3f4c;
+  background: #fff;
+  border: 1px solid #cbd8df;
+  border-radius: 6px;
+  font: inherit;
+  font-weight: 400;
+  cursor: pointer;
+}
+.flight-map__year select:disabled { cursor: default; opacity: .55; }
+.flight-map__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem 1rem;
+  color: #617581;
+  font-size: .88em;
+}
+.flight-map__stats strong { color: #315a6f; font-variant-numeric: tabular-nums; }
+.flight-map__canvas {
+  position: relative;
+  height: 345px;
+  background: #f5f9fb;
+  overflow: hidden;
+}
+.flight-map__canvas svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  touch-action: none;
+  cursor: grab;
+}
+.flight-map__canvas svg:active { cursor: grabbing; }
+.flight-map__ocean { fill: #f5f9fb; stroke: #dbe6ec; stroke-width: 1; }
+.flight-map__graticule { fill: none; stroke: #e6edf2; stroke-width: .7; pointer-events: none; }
+.flight-map__country {
+  fill: #dce7e9;
+  stroke: #c1d0d6;
+  stroke-width: .7;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+.flight-map__arc {
+  fill: none;
+  stroke: #287e9e;
+  stroke-width: 2.2;
+  stroke-opacity: .74;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+  pointer-events: none;
+}
+.flight-map__route:hover .flight-map__arc,
+.flight-map__route:focus-within .flight-map__arc,
+.flight-map__route.is-selected .flight-map__arc {
+  stroke: #d18139;
+  stroke-width: 3.4;
+  stroke-opacity: 1;
+}
+.flight-map__arc-hit {
+  fill: none;
+  stroke: transparent;
+  stroke-width: 13;
+  vector-effect: non-scaling-stroke;
+  cursor: pointer;
+  pointer-events: stroke;
+}
+.flight-map__arc-hit:focus-visible {
+  stroke: rgba(209, 129, 57, .23);
+  outline: none;
+}
+.flight-map__airport {
+  fill: #287e9e;
+  stroke: white;
+  stroke-width: 1.3;
+  cursor: pointer;
+}
+.flight-map__airport:focus-visible { stroke: #d18139; stroke-width: 3; outline: none; }
+.flight-map__zoom {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.flight-map__zoom button {
+  width: 29px;
+  height: 29px;
+  padding: 0;
+  border: 1px solid #d5e0e6;
+  border-radius: 5px;
+  background: rgba(255,255,255,.96);
+  color: #506775;
+  font: 600 19px/1 system-ui, sans-serif;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0,0,0,.04);
+}
+.flight-map__zoom button:hover { background: #eef6fa; }
+.flight-map__zoom button:focus-visible,
+.flight-map__year select:focus-visible { outline: 2px solid #2688b5; outline-offset: 2px; }
+.flight-map__details {
+  min-height: 2rem;
+  padding: .7rem 1rem .1rem;
+  color: #4b6370;
+}
+.flight-map__details strong { color: #25495f; }
+.flight-map__details ul {
+  margin: .35rem 0 .45rem;
+  padding-left: 1.4em;
+  line-height: 1.5;
+}
+.flight-map__details li { margin: .08rem 0; }
+.flight-map__status {
+  margin: 0 !important;
+  padding: .2rem 1rem .85rem;
+  color: #71828c;
+  font-size: .82em;
+  line-height: 1.4;
+}
+@media (max-width: 620px) {
+  .flight-map__toolbar { padding: .7rem; }
+  .flight-map__canvas { height: 285px; }
+  .flight-map__details { padding: .65rem .7rem .05rem; }
+  .flight-map__status { padding: .2rem .7rem .7rem; }
+  .flight-map__stats { font-size: .8em; gap: .35rem .7rem; }
+}
