@@ -37,6 +37,7 @@ News from the Past Year
 * 📄 **03/05/2026:** Our paper, ["Resource adequacy under institutional constraints and the low-carbon energy transition in China"](https://www.sciencedirect.com/science/article/pii/S030142152600042X), was published in *Energy Policy*.
 * 📄 **01/26/2026:** Our paper, ["Generation Expansion Planning With Upstream Supply Chain Constraints on Materials, Manufacturing, and Deployment"](https://ieeexplore.ieee.org/abstract/document/11363418), was published in *IEEE Transactions on Energy Markets, Policy, and Regulation*.
 * 🚗 **12/15/2025:** Wrapped up the year with a holiday road trip down to Key West, Florida with my family and Jiu Jiu.
+
 <!-- * 🎤 **10/27/2025:** Presented our work, "Market Signals and Incentives Aren’t Sufficient: The Case for Supply-Chain Modeling for Grid Expansion", at the 2025 INFORMS Annual Meeting.
 * 🚗 **10/25/2025:** Wrapped up the summer with a joyful road trip to Atlanta, Georgia, also for the INFORMS Annual Meeting, with Jiu Jiu. -->
 <!-- * 📄 **09/30/2025:** Our paper, ["Understanding supply chain constraints for the US clean energy transition"](https://www.nature.com/articles/s44406-025-00009-1), was published in *npj Clean Energy*. -->
