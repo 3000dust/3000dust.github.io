@@ -1,0 +1,53 @@
+
+#flight-history-app{font:14px/1.4 system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:#315161;background:#fff}
+#flight-history-app,#flight-history-app *{box-sizing:border-box}
+#flight-history-app{margin:0;height:100%;overflow:hidden}
+#flight-history-app .widget{height:100%;display:flex;flex-direction:column;background:#fff}
+#flight-history-app .toolbar{height:58px;flex:none;padding:9px 14px;display:flex;align-items:center;border-bottom:1px solid #e4ecee;background:#fff;gap:9px}
+#flight-history-app .toolbar label{font-weight:650;color:#39596a;display:flex;align-items:center;gap:10px}
+#flight-history-app select{font:inherit;min-width:130px;padding:8px 12px;border:1px solid #d5dfe6;border-radius:6px;color:#31586c;background:#fff}
+#flight-history-app select:disabled{color:#9aabb5}
+#flight-history-app .viewport{position:relative;flex:1;min-height:200px;overflow:hidden;isolation:isolate;background:#d8ebf4;cursor:grab;touch-action:none}
+#flight-history-app .viewport.dragging{cursor:grabbing}
+#flight-history-app #fallback,#flight-history-app #tiles,#flight-history-app #routes{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+#flight-history-app #fallback{z-index:1}
+#flight-history-app #tiles{z-index:2;overflow:hidden}
+#flight-history-app #tiles img{position:absolute;display:block;max-width:none;user-select:none;pointer-events:none;border:0;filter:saturate(.79) brightness(1.025)}
+#flight-history-app #routes{z-index:3;overflow:visible}
+#flight-history-app .flight-line{fill:none;stroke:#1382a3;stroke-opacity:.76;stroke-width:2.15;stroke-linecap:round;pointer-events:none}
+#flight-history-app .flight-line.hover,#flight-history-app .flight-line.selected{stroke:#dd7935;stroke-opacity:1;stroke-width:3.5}
+#flight-history-app .flight-hit{fill:none;stroke:transparent;stroke-width:15;pointer-events:stroke;cursor:pointer;outline:none}
+#flight-history-app .flight-hit:focus-visible{stroke:rgba(207,113,41,.2)}
+#flight-history-app .airport{cursor:pointer;outline:none}
+#flight-history-app .airport .airport-dot{fill:#117c9c;stroke:white;stroke-width:1.6}
+#flight-history-app .airport .airport-halo{fill:#fff;stroke:#b7d0dc;stroke-width:.7;opacity:.95}
+#flight-history-app .airport text{fill:#285064;font-size:11px;font-weight:750;text-anchor:middle;dominant-baseline:central;letter-spacing:.2px;pointer-events:none}
+#flight-history-app .airport:hover .airport-halo,#flight-history-app .airport:focus-visible .airport-halo{stroke:#d77930;stroke-width:1.5}
+#flight-history-app .zoom{position:absolute;z-index:6;right:12px;top:11px;display:flex;flex-direction:column;gap:4px}
+#flight-history-app .zoom button{width:33px;height:32px;border:1px solid #c6d7e0;border-radius:5px;padding:0;background:rgba(255,255,255,.96);color:#33596b;font:600 20px/1 Arial,sans-serif;cursor:pointer;box-shadow:0 1px 2px rgba(26,56,74,.1)}
+#flight-history-app .zoom button:hover{background:#eaf6fb}
+#flight-history-app .zoom #to-us{font-size:12px;font-weight:750}
+#flight-history-app .zoom #to-world{font-size:17px}
+#flight-history-app .zoom button:focus-visible,#flight-history-app select:focus-visible,#flight-history-app .close:focus-visible{outline:2px solid #208db4;outline-offset:2px}
+#flight-history-app .card{position:absolute;z-index:7;left:12px;bottom:30px;min-width:210px;max-width:min(370px,calc(100% - 24px));max-height:65%;overflow:auto;padding:13px 41px 13px 13px;border-radius:9px;background:rgba(255,255,255,.98);border:1px solid #bed2dc;box-shadow:0 3px 18px #234b6840;font-size:13px}
+#flight-history-app .card strong{display:block;margin:0 0 6px;font-size:14px;color:#28586f}
+#flight-history-app .card .record{margin:4px 0;line-height:1.5;overflow-wrap:anywhere}
+#flight-history-app .card .close{position:absolute;right:7px;top:5px;border:0;background:none;font:23px/1 Arial,sans-serif;color:#7996a3;cursor:pointer}
+#flight-history-app .tip{position:absolute;z-index:8;max-width:250px;padding:6px 9px;border-radius:5px;color:#fff;background:#2a4c5f;box-shadow:0 2px 9px #142c3740;font-size:12px;pointer-events:none}
+#flight-history-app .notice{position:absolute;z-index:10;left:11px;right:11px;bottom:33px;padding:9px 12px;border:1px solid #e2c591;border-radius:5px;background:#fff8e9;color:#6c4b23;font-size:12px}
+#flight-history-app .attribution{position:absolute;right:5px;bottom:3px;z-index:5;padding:1px 5px;border-radius:3px;background:#ffffffd9;color:#536c7c;font:10px/1.5 Arial,sans-serif}
+#flight-history-app .attribution a{color:inherit;text-decoration:none}
+#flight-history-app .attribution a:hover{text-decoration:underline}
+#flight-history-app [hidden]{display:none!important}
+@media (max-width:540px){#flight-history-app .toolbar{height:54px;padding:8px 10px}
+#flight-history-app select{min-width:110px;padding:7px 8px}
+#flight-history-app .zoom{right:8px;top:8px}
+#flight-history-app .zoom button{width:32px;height:31px}
+#flight-history-app .card{left:8px;bottom:29px;max-width:calc(100% - 16px)}
+#flight-history-app .airport text{font-size:10px}}
+#flight-history-app{display:block;width:100%;height:465px;margin:16px 0 24px;border:1px solid #d5e2ea;border-radius:10px;overflow:hidden;isolation:isolate;font:14px/1.4 system-ui,-apple-system,"Segoe UI",Arial,sans-serif;position:relative;background:white;color:#315161}
+#flight-history-app .widget{height:100%;width:100%}
+@media (max-width:600px){#flight-history-app{height:438px}}
+
+
+#flight-history-app .flight-map-loading{position:absolute;z-index:10;left:12px;bottom:18px;padding:8px 10px;color:#376274;background:#ffffffea;border:1px solid #d0e1e9;border-radius:5px;font-size:12px}
